@@ -1,8 +1,8 @@
 - # 📘 Dynamic To-Do List Application
 
 ## 👩‍🎓 Student Details
-- **Name:** KUMAR SUBODH 
-- **Roll No:** 2401010205
+- **Name:** Pawan Singh Bisht 
+- **Roll No:** 2401010153
 - **Course:** WEB PROGRAMMING WITH PYTHON AND JAVASCRIPT LAB
 - **Program:** BTECH CSE SECTION-C
 - **Experiment No:** 4
